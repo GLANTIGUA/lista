@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:0,News 12 (The Bronx)
-#EXTGRP:TV
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
-#EXTINF:0,ABC News
-#EXTGRP:TV
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0,FOX 46 (Charlotte)
-#EXTGRP:TV
-http://23.237.22.72:25461/live/igreatlyi/0iCezvgJfM/19884.ts
-#EXTINF:0,WCCB News (Charlotte)
-#EXTGRP:TV
-http://iptv-area-51.tv:2095/live/Cuestyle1856/cuestyles/7616.m3u8
 #EXTINF:0,TELEMICRO CANAL 5
 #EXTGRP:TV
 http://stream.grupotelemicro.com/5.m3u8
