@@ -1,0 +1,280 @@
+#EXTM3U
+#EXTINF:0,News 12 (Brooklyn)
+#EXTGRP:TV
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:0,News 12 (New Jersey)
+#EXTGRP:TV
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:0,News 12 (The Bronx)
+#EXTGRP:TV
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:0,ABC News
+#EXTGRP:TV
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0,FOX 46 (Charlotte)
+#EXTGRP:TV
+http://23.237.22.72:25461/live/igreatlyi/0iCezvgJfM/19884.ts
+#EXTINF:0,WCCB News (Charlotte)
+#EXTGRP:TV
+http://iptv-area-51.tv:2095/live/Cuestyle1856/cuestyles/7616.m3u8
+#EXTINF:0,TELEMICRO CANAL 5
+#EXTGRP:TV
+http://stream.grupotelemicro.com/5.m3u8
+#EXTINF:0,COLOR VISION
+#EXTGRP:TV
+http://live.eternaltv.net:25461/live/Alucard75/g1LvC60pw4/36090.ts
+#EXTINF:0,DIGITAL 15
+#EXTGRP:TV
+http://stream.grupotelemicro.com/15.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:TV
+http://iptv-area-51.tv:2095/live/loael/584wMhHtp8/4240.ts
+#EXTINF:0,Univision
+#EXTGRP:TV
+http://main.nrdtv.gq:2095/live/Dgardhel/3006/546.ts
+#EXTINF:0,Telenord Canal 10
+#EXTGRP:TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&amp;mode=12
+#EXTINF:0,MICROVISION 10
+#EXTGRP:TV
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:0,Orbit TV
+#EXTGRP:TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:0,CANAL 4
+#EXTGRP:TV
+http://45.35.46.43:1935/live/canal4/playlist.m3u8
+#EXTINF:0,Telenord Canal 8
+#EXTGRP:TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&amp;mode=12
+#EXTINF:0,SUPER TV 55
+#EXTGRP:TV
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+#EXTINF:0,TELEUNIVERSO
+#EXTGRP:TV
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w1851596076.m3u8
+#EXTINF:0,CANAL 13
+#EXTGRP:TV
+http://stream.grupotelemicro.com/13.m3u8
+#EXTINF:0,EL MISMO GOLPE
+#EXTGRP:TV
+http://ss6.domint.net:1948/zol_str/vzol/chunklist_w745366436.m3u8
+#EXTINF:0,MTV
+#EXTGRP:TV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,MTV 2
+#EXTGRP:TV
+http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/6068.ts
+#EXTINF:0,MTV 3
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MTV_HD)/Stream(03)/index.m3u8
+#EXTINF:0,Comedy Central
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CARTOON_NETWORK_HD)/Stream(04)/index.m3u8
+#EXTINF:0,E! Entertainment
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(04)/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICKELODEON_HD)/Stream(04)/index.m3u8
+#EXTINF:0,Tooncast
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+#EXTINF:0,Discovery TLC
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(04)/index.m3u8
+#EXTINF:0,Discovery Theater
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(06)/index.m3u8
+#EXTINF:0,History
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(04)/index.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/Stream(04)/index.m3u8
+#EXTINF:0,NatGeo
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(06)/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
+#EXTINF:0,Max Prime
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Paramount Channel
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(06)/index.m3u8
+#EXTINF:0,HBO Plus
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(06)/index.m3u8
+#EXTINF:0,CineLatino
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
+#EXTINF:0,Golden HD
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(04)/index.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(06)/index.m3u8
+#EXTINF:0,HBO
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(06)/index.m3u8
+#EXTINF:0,HBO Family
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Fox Comedy
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Fox Family
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Fox Movies
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Warner Channel
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(06)/index.m3u8
+#EXTINF:0,FX
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Fox
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Fox Cinema
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Sony
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(06)/index.m3u8
+#EXTINF:0,TNT Series
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Extrema TV
+#EXTGRP:TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,HTV
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HTV)/Stream(03)/index.m3u8
+#EXTINF:0,Max Prime
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(03)/index.m3u8
+#EXTINF:0,Max
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
+#EXTINF:0,FOX CLASSICS HD
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(03)/index.m3u8
+#EXTINF:0,FOX ACTION 2
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(03)/index.m3u8
+#EXTINF:0,FOX CINEMA HD
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(03)/index.m3u8
+#EXTINF:0,CINEMA PLUS
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMAPLUS)/Stream(03)/index.m3u8
+#EXTINF:0,SONY
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
+#EXTINF:0,Life Time
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/Stream(03)/index.m3u8
+#EXTINF:0,Multipremier
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/Stream(03)/index.m3u8
+#EXTINF:0,AXN
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8
+#EXTINF:0,TCM
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(03)/index.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:TV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(03)/index.m3u8
+#EXTINF:0,SNY
+#EXTGRP:DEPORTES
+http://tv.latintvweb.com:25461/live/carlosdavid7676/carlosdavid7676/81952.ts
+#EXTINF:0,YES
+#EXTGRP:DEPORTES
+http://live.eternaltv.net:25461/live/quynhhl2/Y6C55xww7d/16480.ts?null=
+#EXTINF:0,MLB NETWORK
+#EXTGRP:DEPORTES
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8?xtreamiptv.m3u8
+#EXTINF:0,MLB EXTRA INNINGS 1
+#EXTGRP:DEPORTES
+http://s1iptv.ddns.net:25461/live/ameira3@gmail.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/980.ts
+#EXTINF:0,MLB EXTRA INNINGS 2
+#EXTGRP:DEPORTES
+http://s1iptv.ddns.net:25461/live/ameira3@gmail.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/976.ts
+#EXTINF:0,MLB EXTRA INNINGS 3
+#EXTGRP:DEPORTES
+http://s1iptv.ddns.net:25461/live/ameira3@gmail.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/982.ts
+#EXTINF:0,MLB EXTRA INNINGS 4
+#EXTGRP:DEPORTES
+http://s1iptv.ddns.net:25461/live/ameira3@gmail.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/979.ts
+#EXTINF:0,MLB REDS CHANNEL
+#EXTGRP:DEPORTES
+http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/8053.ts
+#EXTINF:0,MLB MARLINS CHANNEL
+#EXTGRP:DEPORTES
+http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/6323.ts
+#EXTINF:0,MLB SAN DIEGO CHANNEL
+#EXTGRP:DEPORTES
+http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/8051.ts
+#EXTINF:0,MLB ATHLETICS CHANNEL
+#EXTGRP:DEPORTES
+http://io.xtrego.com:8080/live/carlosmunozc/TMwqwLuiNp/76.ts
+#EXTINF:0,MLB BOSTON CHANNEL
+#EXTGRP:DEPORTES
+http://server.stablechannels.tv:25461/live/yxHgS3ZGw/d041EFft0q/11028.ts
+#EXTINF:0,MLB PHILLIES CHANNEL
+#EXTGRP:DEPORTES
+http://io.xtrego.com:8080/live/carlosmunozc/TMwqwLuiNp/72.ts
+#EXTINF:0,MLB BREWERS CHANNEL
+#EXTGRP:DEPORTES
+http://iptv-area-51.tv:2095/live/loael/584wMhHtp8/8045.ts
+#EXTINF:0,NFL NETWORK
+#EXTGRP:DEPORTES
+http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/103.ts
+#EXTINF:0,FOX NFL
+#EXTGRP:DEPORTES
+http://vapi.vaders.tv/play/52226.m3u8?token=eyJ1c2VybmFtZSI6Imp1dmUiLCJwYXNzd29yZCI6Im5xcmo2Z2R0YSJ9
+#EXTINF:0,FOX NFL 2
+#EXTGRP:DEPORTES
+http://147.135.128.132:8000/live/cesarjymfernanda/rHPj0VOsOC/7777.ts
+#EXTINF:0,NBC / NFL NEW YORK
+#EXTGRP:DEPORTES
+http://vapi.vaders.tv/play/52244.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiJ5b3V3YW50NyJ9
+#EXTINF:0,NFL NOW 1
+#EXTGRP:DEPORTES
+http://kstv.xyz:8080/live/Carlamustri/2871502139/31111.ts
+#EXTINF:0,NFL NOW 2
+#EXTGRP:DEPORTES
+http://kstv.xyz:8080/live/lisaamdjim/7062837798/31115.ts
+#EXTINF:0,NFL NOW 3
+#EXTGRP:DEPORTES
+http://bestbuyiptv.link:6969/live/margarettroy2/123456/17270.ts
+#EXTINF:0,NFL NOW 4
+#EXTGRP:DEPORTES
+http://kstv.xyz:8080/live/Carlamustri/2871502139/31109.ts
+#EXTINF:0,NFL NOW 5
+#EXTGRP:DEPORTES
+http://kstv.xyz:8080/live/Carlamustri/2871502139/31110.ts
