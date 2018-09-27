@@ -21,9 +21,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0,MTV 2
 #EXTGRP:TV
 http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/6068.ts
-#EXTINF:0,MTV 3
-#EXTGRP:TV
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MTV_HD)/Stream(03)/index.m3u8
 #EXTINF:0,Comedy Central
 #EXTGRP:TV
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
