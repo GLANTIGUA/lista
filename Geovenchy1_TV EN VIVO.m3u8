@@ -1,31 +1,5 @@
 #EXTM3U
-#EXTINF:0,TELEMICRO CANAL 5
-#EXTGRP:TV
-http://stream.grupotelemicro.com/5.m3u8
-#EXTINF:0,COLOR VISION
-#EXTGRP:TV
-http://live.eternaltv.net:25461/live/Alucard75/g1LvC60pw4/36090.ts
-#EXTINF:0,DIGITAL 15
-#EXTGRP:TV
-http://stream.grupotelemicro.com/15.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:TV
-http://iptv-area-51.tv:2095/live/loael/584wMhHtp8/4240.ts
-#EXTINF:0,Univision
-#EXTGRP:TV
-http://main.nrdtv.gq:2095/live/Dgardhel/3006/546.ts
-#EXTINF:0,Telenord Canal 10
-#EXTGRP:TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&amp;mode=12
-#EXTINF:0,MICROVISION 10
-#EXTGRP:TV
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:0,Orbit TV
-#EXTGRP:TV
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-#EXTINF:0,CANAL 4
-#EXTGRP:TV
-http://45.35.46.43:1935/live/canal4/playlist.m3u8
+
 #EXTINF:0,Telenord Canal 8
 #EXTGRP:TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&amp;mode=12
