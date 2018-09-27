@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,News 12 (Brooklyn)
-#EXTGRP:TV
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 #EXTINF:0,News 12 (New Jersey)
 #EXTGRP:TV
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
