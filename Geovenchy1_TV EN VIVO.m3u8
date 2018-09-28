@@ -1,23 +1,4 @@
 #EXTM3U
-
-#EXTINF:0,Telenord Canal 8
-#EXTGRP:TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&amp;mode=12
-#EXTINF:0,SUPER TV 55
-#EXTGRP:TV
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
-#EXTINF:0,TELEUNIVERSO
-#EXTGRP:TV
-http://ss1.domint.net:2302/tu_str/universo/chunklist_w1851596076.m3u8
-#EXTINF:0,CANAL 13
-#EXTGRP:TV
-http://stream.grupotelemicro.com/13.m3u8
-#EXTINF:0,EL MISMO GOLPE
-#EXTGRP:TV
-http://ss6.domint.net:1948/zol_str/vzol/chunklist_w745366436.m3u8
-#EXTINF:0,MTV
-#EXTGRP:TV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0,MTV 2
 #EXTGRP:TV
 http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/6068.ts
