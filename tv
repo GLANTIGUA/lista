@@ -4,6 +4,10 @@
 #EXTGRP:DEPORTES
 http://main.iotv.es:8080/live/jesu@me.com/MZHRl1oOOc/2774.ts
 
+#EXTINF:0,MSG NETWORK (KNICKS)
+#EXTGRP:DEPORTES
+http://main.nrdtv.gq:2095/live/lopez/67890/271.ts
+
 #EXTINF:0,SNY
 #EXTGRP:DEPORTES
 http://tv.latintvweb.com:25461/live/carlosdavid7676/carlosdavid7676/81952.ts
