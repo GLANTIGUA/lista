@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,SNY
+#EXTINF:0,FS1
 #EXTGRP:DEPORTES
 http://main.iotv.es:8080/live/jesu@me.com/MZHRl1oOOc/2774.ts
 
