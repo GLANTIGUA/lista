@@ -2,6 +2,10 @@
 
 #EXTINF:0,SNY
 #EXTGRP:DEPORTES
+http://main.iotv.es:8080/live/jesu@me.com/MZHRl1oOOc/2774.ts
+
+#EXTINF:0,SNY
+#EXTGRP:DEPORTES
 http://tv.latintvweb.com:25461/live/carlosdavid7676/carlosdavid7676/81952.ts
 #EXTINF:0,YES
 #EXTGRP:DEPORTES
