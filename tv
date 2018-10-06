@@ -86,3 +86,95 @@ http://kstv.xyz:8080/live/Carlamustri/2871502139/31110.ts
 #EXTINF:0,CBS NFL NEW YORK
 #EXTGRP:DEPORTES
 http://vapi.vaders.tv/play/52237.m3u8?token=eyJ1c2VybmFtZSI6InRoZW1hdGFkb3I5OSIsInBhc3N3b3JkIjoic3VtbWVyMjAxOCJ9
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2018/04/OrbitHD-290x164.png" group-title="DEPORTES",UFC
+http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6IjQ3MDBjcmEiLCJwYXNzd29yZCI6ImVpa2RqIn0=
+
+#EXTINF:-1 tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2018/04/OrbitHD-290x164.png" group-title="DEPORTES",WWE
+http://thepk.co:2086/live/jwh2791/yY12Ac6gy5/17827.ts
+
+#EXTINF:-1 tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2018/04/OrbitHD-290x164.png" group-title="DOMINICANA",CANAL 4
+http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=1969837158
+
+#EXTINF:-1 tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2018/04/OrbitHD-290x164.png" group-title="DOMINICANA",TELEMICRO
+http://stream.grupotelemicro.com/5.m3u8
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",COLOR VISION
+http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/36090.ts
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",MICROVISION 10
+http://tv.latintvweb.com:25461/live/coscute/coBCwAer4w/34872.ts
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TELESISTEMA 11
+http://ss2.domint.net:2114/t11_str/telesistema/chunklist_w448100580.
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TELESISTEMA 11 (opt 2 )
+http://tv.latintvweb.com:25461/live/coscute/coBCwAer4w/34871.ts
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",DIGITAL 15
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TELECIBAO
+https://59f1cbe63db89.streamlock.net:1443/cibaotv/_definst_/cibaotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",UNIVISION
+http://live2018.mine.nu:8000/live/FERNANDOTX/AQWER/72935.ts
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TELEUNIVERSO 29
+http://iptv-area-51.tv:2095/live/Bobby75/Giants1175/12545.ts
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TDN DEPORTES
+http://elmasteriptv.com:8000/live/Sanchezviviana1986livecom/2G5VjRNR7W/3873.ts
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",CDN HD
+http://tv.latintvweb.com:25461/live/peralta57/GOqyrJUadJ/34875.ts
+
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",CDN SPORTMAX HD 
+http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/36161.ts
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",FUEGO TV
+http://184.173.181.2:1935/8020/8020/chunklist_w1401963059.m3u8
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",UNIVISION PUERTO RICO
+http://tv.latintvweb.com:25461/live/coscute/coBCwAer4w/88088.ts
+
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TELEMUNDO PUERTO RICO
+http://vapi.vaders.tv/play/79286.m3u8?token=eyJ1c2VybmFtZSI6InZzbXlzdHJlYW1zX3doaXRlcmFwcHBhIiwicGFzc3dvcmQiOiJicmFuZG9uODYifQ==
+
+
+#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TELEMUDNO 51
+http://vapi.vaders.tv/play/56464.m3u8?token=eyJ1c2VybmFtZSI6ImNuY2Rvd2QiLCJwYXNzd29yZCI6ImV4czlkOGFoMzkifQ==
+
+#EXTINF: -1, NYC Times Square (47th y Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
+# EXTINF: -1, NYC Times Square (vista sur)
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w872104618.m3u8
+
+# EXTINF: -1, NYC Times Square
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF: -1, NYC Times Square (Crossroads)
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u
+
+#EXTINF: -1, DC Eagle Cam A
+https://americaneagle-lh.akamaihd.net/i/AEF_DC1@31049/master.m3u8
+
+#EXTINF: -1, DC Eagle Cam B
+https://americaneagle-lh.akamaihd.net/i/AEF_DC2@31050/master.m3u8
+
+#EXTINF: -1, CAZA Y PESCA 
+http://iptvtool.es:9977/live/Angel_lopez/Angel_lopez/36994.ts
+
+#EXTINF: -1, CNN ( CHILE ) 
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF: -1, CNN USA 
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+
