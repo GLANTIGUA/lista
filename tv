@@ -1,95 +1,63 @@
 #EXTM3U
 
 #EXTINF:0,FS1
-#EXTGRP:DEPORTES
 http://main.iotv.es:8080/live/jesu@me.com/MZHRl1oOOc/2774.ts
 
 #EXTINF:0,MSG NETWORK (KNICKS)
-#EXTGRP:DEPORTES
 http://main.nrdtv.gq:2095/live/lopez/67890/271.ts
 
 #EXTINF:0,TBS
-#EXTGRP:DEPORTES
 http://iptv-area-51.tv:2095/live/Cuestyle1856/cuestyles/1878.m3u8
 
 #EXTINF:0,SNY
-#EXTGRP:DEPORTES
 http://thepk.co:2086/live/jwh2791/yY12Ac6gy5/8850.ts
 #EXTINF:0,YES
-#EXTGRP:DEPORTES
 http://live.eternaltv.net:25461/live/quynhhl2/Y6C55xww7d/16480.ts?null=
 #EXTINF:0,MLB NETWORK
-#EXTGRP:DEPORTES
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8?xtreamiptv.m3u8
 #EXTINF:0,MLB EXTRA INNINGS 1
-#EXTGRP:DEPORTES
 http://s1iptv.ddns.net:25461/live/ameira3@gmail.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/980.ts
 #EXTINF:0,MLB EXTRA INNINGS 2
-#EXTGRP:DEPORTES
 http://s1iptv.ddns.net:25461/live/ameira3@gmail.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/976.ts
 #EXTINF:0,MLB EXTRA INNINGS 3
-#EXTGRP:DEPORTES
 http://s1iptv.ddns.net:25461/live/ameira3@gmail.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/982.ts
 #EXTINF:0,MLB EXTRA INNINGS 4
-#EXTGRP:DEPORTES
 http://s1iptv.ddns.net:25461/live/ameira3@gmail.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/979.ts
 #EXTINF:0,MLB REDS CHANNEL
-#EXTGRP:DEPORTES
 http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/8053.ts
 #EXTINF:0,MLB MARLINS CHANNEL
-#EXTGRP:DEPORTES
 http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/6323.ts
 #EXTINF:0,MLB SAN DIEGO CHANNEL
-#EXTGRP:DEPORTES
 http://iptv-area-51.tv:2095/live/DANOMAN52/d853mcaN2H/8051.ts
 #EXTINF:0,MLB ATHLETICS CHANNEL
-#EXTGRP:DEPORTES
 http://io.xtrego.com:8080/live/carlosmunozc/TMwqwLuiNp/76.ts
 #EXTINF:0,MLB BOSTON CHANNEL
-#EXTGRP:DEPORTES
 http://server.stablechannels.tv:25461/live/yxHgS3ZGw/d041EFft0q/11028.ts
 #EXTINF:0,MLB PHILLIES CHANNEL
-#EXTGRP:DEPORTES
 http://io.xtrego.com:8080/live/carlosmunozc/TMwqwLuiNp/72.ts
 #EXTINF:0,MLB BREWERS CHANNEL
-#EXTGRP:DEPORTES
 http://iptv-area-51.tv:2095/live/loael/584wMhHtp8/8045.ts
 #EXTINF:0,NFL NETWORK
-#EXTGRP:DEPORTES
 http://ip.clientmarket.top:8080/live/simenholmlund@gmail.com/pcsIWP2tBW/989.ts
 #EXTINF:0,FOX NFL
-#EXTGRP:DEPORTES
 http://iptv.wtf:25461/live/Mpedreros/Morreiro1/4148.ts
 #EXTINF:0,FOX NFL 2
-#EXTGRP:DEPORTES
 http://147.135.128.132:8000/live/cesarjymfernanda/rHPj0VOsOC/7777.ts
 #EXTINF:0,NBC / NFL NEW YORK
-#EXTGRP:DEPORTES
 http://vapi.vaders.tv/play/52244.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiJ5b3V3YW50NyJ9
 #EXTINF:0,NFL NOW 1
-#EXTGRP:DEPORTES
 http://kstv.xyz:8080/live/Carlamustri/2871502139/31111.ts
 #EXTINF:0,NFL NOW 2
-#EXTGRP:DEPORTES
 http://kstv.xyz:8080/live/lisaamdjim/7062837798/31115.ts
 #EXTINF:0,NFL NOW 3
-#EXTGRP:DEPORTES
 http://bestbuyiptv.link:6969/live/margarettroy2/123456/17270.ts
 #EXTINF:0,NFL NOW 4
-#EXTGRP:DEPORTES
 http://kstv.xyz:8080/live/Carlamustri/2871502139/31109.ts
 #EXTINF:0,NFL NOW 5
-#EXTGRP:DEPORTES
 http://kstv.xyz:8080/live/Carlamustri/2871502139/31110.ts
-
 #EXTINF:0,CBS NFL NEW YORK
 #EXTGRP:DEPORTES
 http://vapi.vaders.tv/play/52237.m3u8?token=eyJ1c2VybmFtZSI6InRoZW1hdGFkb3I5OSIsInBhc3N3b3JkIjoic3VtbWVyMjAxOCJ9
-
-
-
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2018/04/OrbitHD-290x164.png" group-title="DEPORTES",UFC
 http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6IjQ3MDBjcmEiLCJwYXNzd29yZCI6ImVpa2RqIn0=
 
