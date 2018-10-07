@@ -77,9 +77,6 @@ http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/36090.ts
 http://tv.latintvweb.com:25461/live/coscute/coBCwAer4w/34872.ts
 
 #EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TELESISTEMA 11
-http://ss2.domint.net:2114/t11_str/telesistema/chunklist_w448100580.
-
-#EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",TELESISTEMA 11 (opt 2 )
 http://tv.latintvweb.com:25461/live/coscute/coBCwAer4w/34871.ts
 
 #EXTINF:-1 tvg-logo="GGG" group-title="DOMINICANA",DIGITAL 15
