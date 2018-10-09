@@ -1,15 +1,17 @@
 #EXTM3U
 
-#EXTINF:0,FS1
-http://main.iotv.es:8080/live/jesu@me.com/MZHRl1oOOc/2774.ts
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/501379.png" group-title="",FS1
+http://ca.stablechannels.tv:25461/live/K3a2B19Ah/55w8oaXC2n/4168.ts
 
-#EXTINF:0,MSG NETWORK (KNICKS)
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/31146.png" group-title="",MSG NETWORK (KNICKS)
 http://main.nrdtv.gq:2095/live/lopez/67890/271.ts
 
-#EXTINF:0,TBS
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/31146.png" group-title="",TBS
 http://144.217.75.21:25461/live/roku/roku/1767.ts
 
-#EXTINF:0,SNY
+
+
+#EXTINF:0 tvg-logo="http://crawler.mdcgate.com/iptv/logo/331344.png" group-title="",SNY
 http://thepk.co:2086/live/jwh2791/yY12Ac6gy5/8850.ts
 #EXTINF:0,YES
 http://live.eternaltv.net:25461/live/quynhhl2/Y6C55xww7d/16480.ts?null=
