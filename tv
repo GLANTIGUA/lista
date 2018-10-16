@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/501379.png" group-title="",FS1
-http://ca.stablechannels.tv:25461/live/K3a2B19Ah/55w8oaXC2n/4168.ts
+	http://io.xtrego.com:8080/live/memo0606/jgMOWs5VkW/2774.ts 
 
 #EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/31146.png" group-title="",MSG NETWORK (KNICKS)
 http://main.nrdtv.gq:2095/live/lopez/67890/271.ts
