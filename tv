@@ -9,7 +9,28 @@ http://main.nrdtv.gq:2095/live/lopez/67890/271.ts
 #EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/31146.png" group-title="",TBS
 http://144.217.75.21:25461/live/roku/roku/1767.ts
 
-
+#EXTINF:0,STREAM 30
+http://stream2.fastcdn.me/flv/322.mp4
+#EXTINF:0,STREAM 31
+http://stream2.fastcdn.me/flv/318.mp4
+#EXTINF:0,STREAM 32
+http://stream2.fastcdn.me/flv/316.mp4
+#EXTINF:0,STREAM 33
+http://stream2.fastcdn.me/flv/308.mp4
+#EXTINF:0,STREAM 34
+http://stream2.fastcdn.me/flv/311.mp4
+#EXTINF:0,STREAM 35
+http://stream2.fastcdn.me/flv/310.mp4
+#EXTINF:0,STREAM 36
+http://stream2.fastcdn.me/flv/301.mp4
+#EXTINF:0,STREAM 37
+http://stream2.fastcdn.me/flv/303.mp4
+#EXTINF:0,STREAM 38
+http://stream2.fastcdn.me/flv/299.mp4
+#EXTINF:0,STREAM 39
+http://stream2.fastcdn.me/flv/293.mp4
+#EXTINF:0,STREAM 4
+http://stream2.fastcdn.me/flv/481.mp4
 
 #EXTINF:0 tvg-logo="http://crawler.mdcgate.com/iptv/logo/331344.png" group-title="",SNY
 http://thepk.co:2086/live/jwh2791/yY12Ac6gy5/8850.ts
