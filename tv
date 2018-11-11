@@ -11,11 +11,31 @@ http://s1iptv.ddns.net:25461/live/renata@avalonhomedesign.com/5355858f2c2abd7797
 #EXTINF:-1 tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png" group-title="KNICKS",MSG NETWORK | HD
 http://iptv-area-51.tv:2095/live/missjskid/ijMb0b707N/6033.ts
 
+
+#EXTINF:-1 tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png" group-title="KNICKS",MSG NETWORK | HD
+http://ca.stablechannels.tv:25461/live/NazCyDq74/96wkWzx37Y/11034.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png" group-title="KNICKS",MSG NETWORK | HD
+http://io.xtrego.com:8080/live/DATtiPFxBu/7y8t1oZ9G9/85.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png" group-title="KNICKS",MSG NETWORK PLUS | HD
+http://iptv.wtf:25461/live/hpmcuaah/kZ90Zji1y8/11036.ts
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1061007002007040001/O-uCtY1N_400x400.jpg" group-title="WARRIORS",CSN BAY AREA | HD
 http://nitro.ltd:25461/live/Tj8168/3V3qfRARTF/6044.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059839603979386881/mNZ66tDA_400x400.jpg" group-title="BROOKLYN NETS",YES NETWORK | HD
 http://live.eternaltv.net:25461/live/quynhhl2/Y6C55xww7d/16480.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059839603979386881/mNZ66tDA_400x400.jpg" group-title="BROOKLYN NETS",LA LAKERS| HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059839603979386881/mNZ66tDA_400x400.jpg" group-title="LA LAKERS",LA LAKERS| HD
 http://vapi.vaders.tv/play/77883.m3u8?token=eyJ1c2VybmFtZSI6InZhZGVyc2NjX3RvbWhpY2tzIiwicGFzc3dvcmQiOiJ0aDEyMzQifQ==
+
+
