@@ -51,7 +51,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="FX.us" tvg-name="FX"  audio-track="nl",FX 
-http://niptv.biz:25461/live/alcebiadesnascimento@hotmail.com/100756/59.m3u8
+http://sv1.cineiptv.com:25461/live/QjwfjItVK4/abacaxi22/4969.ts
 
 
 #EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="AnimalPlanet.us" tvg-name="Animal Planet"  audio-track="nl",Animal Planet
@@ -90,7 +90,7 @@ http://tntcloud.xyz:2052/live/rkmals@yahoo.com/59v83luuUZ/36.ts
 http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13988.m3u8
 
 #EXTINF:-1 tvg-id="MTVHD.us" tvg-name="MTV" tvg-logo="", MTV HD
-http://sv1.cineiptv.com:25461/live/QjwfjItVK4/abacaxi22/4969.ts
+http://54.36.165.225:8080/Ralston1/voQWZz6cyk/7695
 
 
 
