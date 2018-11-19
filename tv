@@ -4,6 +4,12 @@
 #EXTINF:-1 tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="CINE", PPV EVENTS ONLY
 http://redquality.sytes.net:8000/live/moifederico/3kSzXHKCrx/17699.ts
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA" group-title="CINE" parent-code="1234" audio-track="nl",PPV CINEMA 
+http://kstv.xyz:8080/REDVELVET/8078366408/33513
+
+
+
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://yt3.ggpht.com/a-/AN66SAyJ1oUx3HBOx-3fWEsN6afFt6RoyBxIYmtRNA=s900-mo-c-c0xffffffff-rj-k-no", TELERED Costa Rica
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w736230202.m3u8
 
