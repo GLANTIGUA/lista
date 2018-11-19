@@ -89,9 +89,8 @@ http://tntcloud.xyz:2052/live/rkmals@yahoo.com/59v83luuUZ/36.ts
 #EXTINF:-1 tvg-id="A-E.us" tvg-name="A&E" tvg-logo="http://puu.sh/reIHx/6250def099.png" , A&E
 http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13988.m3u8
 
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-
+#EXTINF:-1 tvg-id="MTVHD.us" tvg-name="MTV" tvg-logo="", MTV HD
+http://54.36.165.225:8080/Ralston1/voQWZz6cyk/7695
 
 
 
