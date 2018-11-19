@@ -1,104 +1,94 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" tvg-id="" tvg-name="" group-title="CINEMA" audio-track="nl",PPV EVENTS ONLY
+#EXTINF:-1 tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" tvg-id="" tvg-name=""  audio-track="nl",PPV EVENTS ONLY
 http://unlockyourtv.com:8000/live/charles/charles/1166.ts
 
 
 //////DOMINICANOS
 
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/122evlc.jpg" group-title="DOMINICANOS",TELEMICRO CANAL 5 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/122evlc.jpg" ,TELEMICRO CANAL 5 
 http://stream.grupotelemicro.com/5.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://i63.tinypic.com/122evlc.jpg", COLOR VISION canal 9
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/122evlc.jpg", COLOR VISION canal 9
 http://ss2.domint.net:2138/cvh_str/colorvisionhd/chunklist_w753233321.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://baudilioluna.000webhostapp.com/IMAGENES/15.png" ,DIGITAL 15
+#EXTINF:-1 tvg-logo="https://baudilioluna.000webhostapp.com/IMAGENES/15.png" ,DIGITAL 15
 http://stream.grupotelemicro.com/15.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png"  ,TELEMEDIOS canal 25
+#EXTINF:-1  tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png"  ,TELEMEDIOS canal 25
 http://ss1.domint.net:2200/c25_str/canal25/chunklist_w1417264291.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,TELENOR
+#EXTINF:-1  tvg-logo=""  ,TELENOR
 http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w1702205271.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,TELENOR 10
+#EXTINF:-1  tvg-logo=""  ,TELENOR 10
 http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w1592465196.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,TELENOR 12
+#EXTINF:-1  tvg-logo=""  ,TELENOR 12
 http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w646820866.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,TELENOR 14
+#EXTINF:-1  tvg-logo=""  ,TELENOR 14
 http://newyorkstreamss2.ddns.net:28987/telenord14/telenord14/chunklist_w2067114035.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://www.supertv55.tv/images/logo.png"  ,SUPER TV 55 Santiago
+#EXTINF:-1  tvg-logo="http://www.supertv55.tv/images/logo.png"  ,SUPER TV 55 Santiago
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w223082708.m3u8
 
 //////USA//////
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/66286.png" tvg-id="CNN.us" tvg-name="CNN" group-title="CINEMA" audio-track="nl",CNN 
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/66286.png" tvg-id="CNN.us" tvg-name="CNN"  audio-track="nl",CNN 
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwx1LIHSXp1on47MfHoHc4rW0qcdTKBjBtLDArxVVtoTpfQ8h" tvg-id="WABCNewYorkABCEast.us" tvg-name="WABC (New York) ABC East" group-title="USA" audio-track="nl",WABC (New York) ABC East
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwx1LIHSXp1on47MfHoHc4rW0qcdTKBjBtLDArxVVtoTpfQ8h" tvg-id="WABCNewYorkABCEast.us" tvg-name="WABC (New York) ABC East"  audio-track="nl",WABC (New York) ABC East
 http://catch-me-if-you-can.eu:8080/mathewlytle/BGapHVIYBg/79729
 
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/5339.png" tvg-id="WNBCNewYorkNBCEast.us" tvg-name="WNBC (New York) NBC East" group-title="USA" audio-track="nl",WNBC (New York) NBC East
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/5339.png" tvg-id="WNBCNewYorkNBCEast.us" tvg-name="WNBC (New York) NBC East"  audio-track="nl",WNBC (New York) NBC East
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://images.bwwstatic.com/tvnetworklogos/1181C1EB-EF36-8A61-9C6B02CA72C0500D.jpg" tvg-id="WCBSNewYorkCBSEast.us" tvg-name="WCBS (New York) CBS East" group-title="USA" audio-track="nl",WCBS (New York) CBS East
+#EXTINF:-1 tvg-logo="http://images.bwwstatic.com/tvnetworklogos/1181C1EB-EF36-8A61-9C6B02CA72C0500D.jpg" tvg-id="WCBSNewYorkCBSEast.us" tvg-name="WCBS (New York) CBS East"  audio-track="nl",WCBS (New York) CBS East
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="FX.us" tvg-name="FX" group-title="USA" audio-track="nl",FX 
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="FX.us" tvg-name="FX"  audio-track="nl",FX 
 http://niptv.biz:25461/live/alcebiadesnascimento@hotmail.com/100756/59.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="USA" audio-track="nl",Animal Planet
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="AnimalPlanet.us" tvg-name="Animal Planet"  audio-track="nl",Animal Planet
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" group-title="USA" audio-track="nl",Investigation Discovery
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery"  audio-track="nl",Investigation Discovery
 http://144.217.75.21:25461/live/roku/roku/1778.ts
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="TNT.us" tvg-name="TNT" group-title="USA" audio-track="nl",TNT
+#EXTINF:-1 tvg-logo="" tvg-id="TNT.us" tvg-name="TNT"  audio-track="nl",TNT
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="USANetwork.us" tvg-name="USA Network" group-title="USA" audio-track="nl",USA Network
+#EXTINF:-1 tvg-logo="" tvg-id="USANetwork.us" tvg-name="USA Network"  audio-track="nl",USA Network
 http://144.217.75.21:25461/live/roku/roku/1761.ts
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="USA" audio-track="nl",Comedy Central
+#EXTINF:-1 tvg-logo="" tvg-id="ComedyCentral.us" tvg-name="Comedy Central"  audio-track="nl",Comedy Central
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="FXX.us" tvg-name="FXX" group-title="USA" audio-track="nl",FXX
+#EXTINF:-1 tvg-logo="" tvg-id="FXX.us" tvg-name="FXX"  audio-track="nl",FXX
 http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11107.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="USA" audio-track="nl",Cartoon Network 
+#EXTINF:-1 tvg-logo="" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network"  audio-track="nl",Cartoon Network 
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="BravoHD.us" tvg-name="Bravo HD" group-title="USA" audio-track="nl",Bravo 
-http://rb-group-server.com:25461/12341234/12341234/3693
-
-#EXTINF:-1 tvg-logo="" tvg-id="BravoHD.us" tvg-name="Bravo HD" group-title="USA" audio-track="nl",Bravo 
-http://rb-group-server.com:25461/12341234/12341234/3693
+#EXTINF:-1 tvg-logo="" tvg-id="BravoHD.us" tvg-name="Bravo HD"  audio-track="nl",Bravo 
+http://tntcloud.xyz:2052/live/rkmals@yahoo.com/59v83luuUZ/36.ts
 
 
-#EXTINF:-1 tvg-id="A-E.us" tvg-name="A&E" tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="USA", A&E
+#EXTINF:-1 tvg-id="A-E.us" tvg-name="A&E" tvg-logo="http://puu.sh/reIHx/6250def099.png" , A&E
 http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13988.m3u8
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo=""  MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
