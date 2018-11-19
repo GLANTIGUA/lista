@@ -72,22 +72,22 @@ http://144.217.75.21:25461/live/roku/roku/1761.ts
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="ComedyCentral.us" tvg-name="Comedy Central"  audio-track="nl",Comedy Central
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=""  audio-track="nl",Comedy Central
+http://tv.factoryiptv.com:80/live/Quinteirocoester/Quinteiro/40260.ts
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="FXX.us" tvg-name="FXX"  audio-track="nl",FXX
 http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11107.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network"  audio-track="nl",Cartoon Network 
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+http://srv.mtvs.me:8880/live/EduardoTome2/EduardoTome2F/23573.ts
 
 #EXTINF:-1 tvg-logo="" tvg-id="BravoHD.us" tvg-name="Bravo HD"  audio-track="nl",Bravo 
 http://tntcloud.xyz:2052/live/rkmals@yahoo.com/59v83luuUZ/36.ts
 
 
 #EXTINF:-1 tvg-id="A-E.us" tvg-name="A&E" tvg-logo="http://puu.sh/reIHx/6250def099.png" , A&E
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13988.m3u8
+http://procaja.me/live/?z=20&u=981eZH4M6a8J9v&s=98g816ERn8iGK1&id=17&t=live&f=ts
 
 #EXTINF:-1 tvg-id="MTVHD.us" tvg-name="MTV" tvg-logo="", MTV HD
 http://54.36.165.225:8080/Ralston1/voQWZz6cyk/7695
