@@ -1,50 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" tvg-id="" tvg-name="" group-title="CINEMA" audio-track="nl",PPV EVENTS ONLY
+http://unlockyourtv.com:8000/live/charles/charles/1166.ts
 
 
-#EXTINF:-1 tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="CINE", PPV EVENTS ONLY
-http://redquality.sytes.net:8000/live/moifederico/3kSzXHKCrx/17699.ts
+//////DOMINICANOS
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA" group-title="CINE" parent-code="1234" audio-track="nl",PPV CINEMA 
-http://kstv.xyz:8080/REDVELVET/8078366408/33513
-
-
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://yt3.ggpht.com/a-/AN66SAyJ1oUx3HBOx-3fWEsN6afFt6RoyBxIYmtRNA=s900-mo-c-c0xffffffff-rj-k-no", TELERED Costa Rica
-http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w736230202.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest?cb=20160827154743" , TELEANTILLAS
-http://www.abortolegal.com.ar/suspended.page/3/img_ppal.gif
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://i63.tinypic.com/122evlc.jpg" ,TELEMICRO
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/122evlc.jpg" group-title="DOMINICANOS",TELEMICRO CANAL 5 
 http://stream.grupotelemicro.com/5.m3u8
 
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://i63.tinypic.com/122evlc.jpg", COLOR VISION canal 9
 http://ss2.domint.net:2138/cvh_str/colorvisionhd/chunklist_w753233321.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest?cb=20160827154743",TELESISTEMA 11
-http://ss2.domint.net:2114/t11_str/telesistema/chunklist_w1089948679.m3u8
-
-#EXTINF:-1 tvg-logo="https://baudilioluna.000webhostapp.com/IMAGENES/telecentro%2013.png" group-title="DOMINICANOS",TELECENTRO CANAL 13
-http://stream.grupotelemicro.com/13.m3u8
-
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://baudilioluna.000webhostapp.com/IMAGENES/15.png" ,DIGITAL 15
 http://stream.grupotelemicro.com/15.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,COTUY canal 3
-http://ss1.domint.net:2124/tvc_str/tvcotui/chunklist_w1445446963.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,MAMASITA TV
-http://ss1.domint.net:2314/mtv_str/maimon/chunklist_w127566966.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://www.maimontv.com/images/maimon_logo_clear_lg.png"  ,MAIMON TV canal 3
-http://ss8.domint.net:8112/mtd_str/miamontv/chunklist.m3u8
-
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png"  ,TELEMEDIOS canal 25
 http://ss1.domint.net:2200/c25_str/canal25/chunklist_w1417264291.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVH2XfNd-P_GvcNmHc9BXegYOwQCQnHtK8bDxRsw-GOIyf9ctz"  ,TELEUNION CANAL 16
-http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1591802333.m3u8
 
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,TELENOR
 http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w1702205271.m3u8
@@ -58,331 +29,76 @@ http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w64682086
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,TELENOR 14
 http://newyorkstreamss2.ddns.net:28987/telenord14/telenord14/chunklist_w2067114035.m3u8
 
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,CTN
-https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1854842063.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/1364050_logo_bella_vision.png"  ,BELLAVISION
-http://ss1.domint.net:2128/bev_str/bella/chunklist_w603798263.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,RESPLANDOR TV
-http://ss6.domint.net:1996//rtv_str/rvision/chunklist_w1782527945.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo=""  ,MUSICA LATINA
-http://cm.hostlagarto.com:8081/Latinmusictv/LatinmusicHD.myStream/chunks.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://i.pinimg.com/originals/26/95/dc/2695dc0499c4636840a50096ebaa1441.jpg"  ,FUEGO TV
-http://184.173.181.2:1935/8020/8020/chunklist.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://3.bp.blogspot.com/_cO9LvD6sEjA/SwQEa8VNURI/AAAAAAAACLY/9ubmL6tXq3M/s1600/Logo+Boreal.jpg" ,BOREAL TELEVION
-https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w19857724.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://4.bp.blogspot.com/-EeyPcT1ZtOk/Wr01wDDzC2I/AAAAAAAAdHU/O6vu1dbDlUccw5xqjHx4ZX8r8B86TofhgCLcBGAs/s1600/telesur_canal_10_logo2.png" ,TELESUR R.D
-http://ss1.domint.net:2110/tls_str/telesur/chunklist_w258949686.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="" ,TELEVISION DIGITAL
-http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="" ,HERMANAS MIRABAL
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="" ,MEGACINE TV
-http://cm.hostlagarto.com:8081/MegacineHD/megacine.myStream/chunks.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="" ,CANA TV
-http://cm.hostlagarto.com:8081/Canavision/CanavisionHD.myStream/chunks.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="" ,sensacion tv
-http://ss1.domint.net:2100/stv_str/sensaciontv/chunklist_w183452160.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="" ,TELEDIGITAL
-http://media.az-streamingserver.com:1935/7230/7230/chunklist_w1277225369.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://tv-online.in/wp-content/uploads/2012/12/Microvision-Canal-10-TV.gif" ,MICROVISION
-http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://img.new.livestream.com/accounts/00000000008fe4db/4985dc58-fdf6-4558-9bfc-dfd6c8ca0f38.jpg" ,CINEVISION  19 Santo Domingo
-http://cinevision01.streamprolive.com/hls/live.m3u8
-
-#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/bonao-tv-12.jpg"  ,BONAO TV
-http://ss1.domint.net:2226/btv_str/bonao/chunklist_w1651053653.m3u8
-
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="http://www.supertv55.tv/images/logo.png"  ,SUPER TV 55 Santiago
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w223082708.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/12413.png" ,CBSN HD 
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+//////USA//////
 
-#EXTINF:-1 group-title="USA" tvg-logo="" ,E! Entertainment 
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14329.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="" ,TBS 
-http://92.42.110.150:25461/live/rugby101/h8HSCrj260/701.m3u8
-
-
-#EXTINF:-1 group-title="USA" tvg-logo="" ,SPIKE
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/2201.ts
-
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/12413.png" ,UNIVISION HD
-http://aleiptv.mine.nu:8000/aaron/1234/1068
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/41384.png" ,UNIVISION TDN DEPORTES HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11130.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/32863.png" ,UNIVISION Telenovelas
-http://usuarios.club/usuarios/src5/UnivisionTlnovelas/iptv/club.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/12413.png" ,UNIVISION Miami HD
-http://hiptv.ddns.net:8000/GiQfvXwCAJ/k79JdteYNF/36163
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/12413.png" ,UNIVISION New York HD
-http://extremo.dyndns.ws:25461/live/Mundo/Mundo2/1446.ts
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/12810.png" ,Telemundo 51 HD
-http://tvpremiumhd.club/lista-gratuita/213516/tv/v/1957.ts
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/111697.png" ,UNIMAS HD
-http://tv.latintvweb.com:25461/live/coscute/coBCwAer4w/75470.ts
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/111697.png" ,UNIMAS WASHINGTONG HD
-http://nitro.ltd:25461/live/Tj8168/3V3qfRARTF/19791.ts
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/33345.png" ,NYC Times Square(47th street) HD
-http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" ,NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" , NASA SPACE STATION 2
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/17686.png" ,CNN USA
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/66286.png" tvg-id="CNN.us" tvg-name="CNN" group-title="CINEMA" audio-track="nl",CNN 
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/17686.png" ,CNN ESPANOL HD
-http://201.159.95.106:8080/live/zemaria/zemaria/1116.ts
 
-#EXTINF:-1 group-title="USA" tvg-logo="" ,WEATHER CHANNEL
-http://tvpremiumhd.club/lista-gratuita/162214/on/iptv.php?id=weather-lh.akamaihd.net/i/twc_1@92006/master
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwx1LIHSXp1on47MfHoHc4rW0qcdTKBjBtLDArxVVtoTpfQ8h" tvg-id="WABCNewYorkABCEast.us" tvg-name="WABC (New York) ABC East" group-title="USA" audio-track="nl",WABC (New York) ABC East
+http://catch-me-if-you-can.eu:8080/mathewlytle/BGapHVIYBg/79729
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/11950.png" ,TNT SERIES USA HD
-http://tvpremiumhd.club/lista-gratuita/203201/tv/v/1795.ts
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2676.png" ,ESPN DEPORTES HD
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/5339.png" tvg-id="WNBCNewYorkNBCEast.us" tvg-name="WNBC (New York) NBC East" group-title="USA" audio-track="nl",WNBC (New York) NBC East
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://crawler.mdcgate.com/iptv/logo/2676.png" ,ESPN USA HD
-http://thepk.co:2086/live/grb23551/23552355/13604.ts
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://tvbtn.files.wordpress.com/2013/03/fox-sports-1-logo-350x243.jpg?w=300&h=208" ,FOX SPORTS HD
-http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="http://images.bwwstatic.com/tvnetworklogos/1181C1EB-EF36-8A61-9C6B02CA72C0500D.jpg" tvg-id="WCBSNewYorkCBSEast.us" tvg-name="WCBS (New York) CBS East" group-title="USA" audio-track="nl",WCBS (New York) CBS East
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://tvbtn.files.wordpress.com/2013/03/fox-sports-1-logo-350x243.jpg?w=300&h=208" ,FOX SPORTS / UFC FOX HD
-http://iptv.wtf:25461/live/Mpedreros/Morreiro1/11227.ts
 
-#EXTINF:-1 group-title="USA" tvg-logo="http://smartvonline.ddns.net:27030/live/norlando/17/141.ts" ,FOX SPORTS HD
-http://rb-group-server.com:25461/12341234/12341234/3715
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="FX.us" tvg-name="FX" group-title="USA" audio-track="nl",FX 
+http://niptv.biz:25461/live/alcebiadesnascimento@hotmail.com/100756/59.m3u8
 
-#EXTINF:-1 group-title="CINE " tvg-logo="http://crawler.mdcgate.com/iptv/logo/129719.png" ,TNT HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="CINE " tvg-logo="http://crawler.mdcgate.com/iptv/logo/2676.png" ,TNT 2 HD
-http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6Im1peWFtb3RvcnMiLCJwYXNzd29yZCI6InlsNmZxNWxsZW8ifQ==
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="USA" audio-track="nl",Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/161388.png" ,AXN HD
-http://144.217.75.21:25461/live/roku/roku/784.ts
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/161388.png" ,AXN 2 HD
-http://iptv.speedhd10.com:8080/live/h2009/2092018/215.ts
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/444.png" tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" group-title="USA" audio-track="nl",Investigation Discovery
+http://144.217.75.21:25461/live/roku/roku/1778.ts
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/161388.png" ,AXN ESPANOL HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.ts.m3u8
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/560.png" ,HBO HD
-http://201.159.95.106:8080/live/zemaria/zemaria/1110.ts
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/560.png" ,HBO2 HD
-http://144.217.75.21:25461/live/roku/roku/799.ts
+#EXTINF:-1 tvg-logo="" tvg-id="TNT.us" tvg-name="TNT" group-title="USA" audio-track="nl",TNT
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1341.png" ,HBO FAMILY  HD
-http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6Im1peWFtb3RvcnMiLCJwYXNzd29yZCI6InlsNmZxNWxsZW8ifQ==
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/452.png" ,HBO PLUS HD
-http://kstv.xyz:8080/Abdirisak/6090853075/33338
+#EXTINF:-1 tvg-logo="" tvg-id="USANetwork.us" tvg-name="USA Network" group-title="USA" audio-track="nl",USA Network
+http://144.217.75.21:25461/live/roku/roku/1761.ts
 
-#EXTINF:-1 group-title="CINE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/452.png" ,HBO PLUS 2 HD
-http://www.jomyson.com:8000/live/DiegoCerda/123456789/701.m3u8
 
-#EXTINF:-1 group-title="CINE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" ,Fox Premium Movies HD
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
-#EXTINF:-1 group-title="CINE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" ,Fox Premium Movies 2 HD
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="USA" audio-track="nl",Comedy Central
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="CINE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" ,Fox Comdey HD
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 
-#EXTINF:-1 group-title="CINE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" ,Fox Movies
-http://lista.firesrv.com:80/live/phCqe430N/fireiptv/3223.ts
+#EXTINF:-1 tvg-logo="" tvg-id="FXX.us" tvg-name="FXX" group-title="USA" audio-track="nl",FXX
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11107.m3u8
 
-#EXTINF:-1 group-title="CINE" tvg-logo="" ,Fox Premium Action HD
-http://iptv.wtf:25461/live/tsruwplw/2g80w8GhJa/11373.ts
-
-#EXTINF:-1 group-title="CINE",CRIME & INVESTIGATION (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="CINE", hbo2 dual (eng esp)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/CINE-canal.png"  group-title="CINE", CINEcanal
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13978.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/16.png"  group-title="CINE", CINEmax
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11347.m3u8
-
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles", NICK JR 2
-http://iptv.wtf:25461/live/adiiribc/Y9mz0pFs57/14384.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Infantiles", DISNEY XD
-http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/426.png" group-title="Infantiles", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="USA" audio-track="nl",Cartoon Network 
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/426.png" group-title="Infantiles", CARTOON NETWORK LATINO
-http://vapi.vaders.tv/play/56617.m3u8?token=eyJ1c2VybmFtZSI6Im1peWFtb3RvcnMiLCJwYXNzd29yZCI6InlsNmZxNWxsZW8ifQ==
+#EXTINF:-1 tvg-logo="" tvg-id="BravoHD.us" tvg-name="Bravo HD" group-title="USA" audio-track="nl",Bravo 
+http://rb-group-server.com:25461/12341234/12341234/3693
 
-#EXTINF:-1 tvg-logo="" group-title="Cine", DePelicula+
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11310.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="BravoHD.us" tvg-name="Bravo HD" group-title="USA" audio-track="nl",Bravo 
+http://rb-group-server.com:25461/12341234/12341234/3693
 
-#EXTINF:-1 tvg-logo="https://puu.sh/xafKk/eee533500f.png" group-title="Infantiles", Chapulin Colorado 24/7
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11450.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png" group-title="Infantiles", Super Campeones 24/7
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14145.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lmA23L3.png" group-title="Infantiles", X-MEN 24/7
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11462.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9KPRzuJ.jpg" group-title="Infantiles", BOB ESPONJA 24/7
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4840.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UU5lU5q.png" group-title="Infantiles", LOS PICAPIEDRA 24/7
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11433.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ionlitio.com/images/2012/02/dinosaurios-la-serie-logo.jpg" group-title="Infantiles", Dinosaurios 24/7
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14155.m3u8
-
-#EXTINF:-1 tvg-logo="http://site.area51.pe/online/wp-content/uploads/2017/01/PowerRangers-1024x576.jpg" group-title="Infantiles", Power Rangers
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11425.m3u8
-
-#EXTINF:-1 tvg-logo="http://i33.tinypic.com/10op74o.png" group-title="Infantiles", Mi Bella Genio 24/7
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4846.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E
+#EXTINF:-1 tvg-id="A-E.us" tvg-name="A&E" tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="USA", A&E
 http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13988.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="CINE", Comedy Central
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14002.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="CINE", AMC
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11348.m3u8
 
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="CINE", Space
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13990.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="CINE", AXN
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14003.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="CINE", TNT
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13964.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png" group-title="CINE", FX
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14001.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="CINE", Fox
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14029.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="CINE", FOX Life
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13973.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="CINE", Fox Premium Series
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4744.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="CINE", Fox Action
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14023.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14022.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="CINE", Fox Movies
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4745.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png" group-title="CINE", Fox Family
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4099.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="CINE", Fox Comedy
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14020.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14033.m3u8
-
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="CINE", HBO Plus
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14032.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO Family
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14034.m3u8
-
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif" group-title="CINE", HBO Signature
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14031.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="CINE", Max
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14292.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="CINE", Max Up
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14018.m3u8
-
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/1420.png"  group-title="MLB" group-title="MLB NETWORK",MLB NETWORK | HD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MLB" group-title="MLB NETWORK",MLB NETWORK ALT  | HD
-http://144.217.75.21:25461/live/roku/roku/1479.ts
-
-#EXTINF:-1 tvg-logo="" group-title="MLB " group-title="YANKEES ",NEW YORK YANKEES  | HD
-http://unlockyourtv.com:8000/live/charles/charles/1166.ts
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/3a/59/eb/3a59ebc414b05f6d471c31df837cfaff.png" group-title="NBA",NBA NETWORK | HD
-http://beastiptv.tv:8080/live/jlunaria/ASF9DgqTzs/11152.ts
-
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/71926.png" group-title="NBA",NBA LEAGUE PASS 1 | HD
-http://s1iptv.ddns.net:25461/live/renata@avalonhomedesign.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/1508.ts
-
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/71926.png" group-title="NBA",NBA LEAGUE PASS 2 | HD
-http://s1iptv.ddns.net:25461/live/renata@avalonhomedesign.com/5355858f2c2abd779737d78f57e73c67511a99c1dc7458f328bc56ed3d3178ba12d103a5fc64c1daa0b5cbeeca5ad2a39d389688cf92164cc26092fbd4607c83/66.ts
-
-#EXTINF:-1 tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png" group-title="KNICKS",MSG NETWORK | HD
-http://ca.stablechannels.tv:25461/live/NazCyDq74/96wkWzx37Y/11034.ts
-
-#EXTINF:-1 tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png" group-title="KNICKS",MSG NETWORK | HD
-http://io.xtrego.com:8080/live/DATtiPFxBu/7y8t1oZ9G9/85.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png" group-title="KNICKS",MSG NETWORK PLUS | HD
-http://iptv.wtf:25461/live/hpmcuaah/kZ90Zji1y8/11036.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1061007002007040001/O-uCtY1N_400x400.jpg" group-title="WARRIORS",CSN BAY AREA | HD
-http://nitro.ltd:25461/live/Tj8168/3V3qfRARTF/6044.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059839603979386881/mNZ66tDA_400x400.jpg" group-title="BROOKLYN NETS",YES NETWORK | HD
-http://live.eternaltv.net:25461/live/quynhhl2/Y6C55xww7d/16480.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059839603979386881/mNZ66tDA_400x400.jpg" group-title="LA LAKERS",LA LAKERS| HD
-http://vapi.vaders.tv/play/77883.m3u8?token=eyJ1c2VybmFtZSI6InZhZGVyc2NjX3RvbWhpY2tzIiwicGFzc3dvcmQiOiJ0aDEyMzQifQ==
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059839603979386881/mNZ66tDA_400x400.jpg" group-title="BROOKLYN NETS",YES NETWORK | HD BACK UP LINK
-http://iptv.wtf:25461/live/hpmcuaah/kZ90Zji1y8/11057.ts
-
-#EXTINF:-1 tvg-logo="http://a.espncdn.com/i/teamlogos/nba/500/bos.png" group-title="LA LAKERS",BOSTON CELTICS| HD
-http://kstv.xyz:8080/REDVELVET/8078366408/35358
