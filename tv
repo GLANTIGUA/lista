@@ -146,45 +146,10 @@ http://beastiptv.tv:8080/B4695/87ghyT/11208
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="HBO Family " tvg-logo="http://crawler.mdcgate.com/iptv/logo/29851.png",HBO Family 
 http://lista.webcs.in:25461/live/ductgo/pwstw0/9733.ts
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="CINE", Fox
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14029.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="CINE", FOX Life
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13973.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="CINE", Fox Premium Series
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4744.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="CINE", Fox Action
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14023.m3u8
+/////SPORTS
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14022.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="CINE", Fox Movies
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4745.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png" group-title="CINE", Fox Family
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4099.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="CINE", Fox Comedy
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14020.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14033.m3u8
-
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="CINE", HBO Plus
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14032.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO Family
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14034.m3u8
-
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif" group-title="CINE", HBO Signature
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14031.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="CINE", Max
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14292.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="CINE", Max Up
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14018.m3u8
-
+#EXTINF:-1  tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1420.png" , MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
