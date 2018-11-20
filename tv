@@ -146,8 +146,17 @@ http://beastiptv.tv:8080/B4695/87ghyT/11208
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="HBO Family " tvg-logo="http://crawler.mdcgate.com/iptv/logo/29851.png",HBO Family 
 http://lista.webcs.in:25461/live/ductgo/pwstw0/9733.ts
 
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/66638.png",FOX Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/33376.png", Fox Premium Series
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4744.m3u8
 
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/441.png", Fox Premium 2
+http://niptv.biz:25461/live/igorbretas/t1025335/47.m3u8
+
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/441.png", Fox Premium 2
+http://tv.factoryiptv.com:80/live/Quinteirocoester/Quinteiro/38386.ts
 
 /////SPORTS
 
