@@ -153,12 +153,16 @@ http://144.76.199.197:8080/live/kutlu/kutlu/37964.ts
 #EXTINF:-1 tvg-id="ShowtimeExtremeHD.us" tvg-name="Showtime Extreme HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/37174.png", Showtime Extreme HD
 http://190.2.138.225:8080/live/ehowffok/88Bpw2iS8e/17783.ts
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="StarzWestHD.us" tvg-name="Starz West HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/105900.png",Starz West HD
+http://io.xtrego.com:8080/pcarden8256/9dd4rbIq1M/1356
+ #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="http://crawler.mdcgate.com/iptv/logo/262602.png", Starz Encore Black HD Movies
+http://nitro.ltd:25461/live/Tj8168/3V3qfRARTF/22802.m3u8
+ #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="Cinemax" tvg-logo="http://crawler.mdcgate.com/iptv/logo/427.png",  Cinemax
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11347.m3u8
+ #EXTINF:-1 tvg-id="Cinelatino.us" tvg-name="Cinelatino" tvg-logo="http://crawler.mdcgate.com/iptv/logo/3212.png",  Cinelatino
+http://goldplayer.info:8000/septiembre47/SqvwRTWgKO/31374
+ #EXTINF:-1 tvg-id="StarzEncoreActionHD.us" tvg-name="Starz Encore Action HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/79992.png",  Starz Encore Action 
+http://io.xtrego.com:8080/pcarden8256/9dd4rbIq1M/1364
 /////SPORTS
 
 #EXTINF:-1  tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1420.png" , MLB Network
