@@ -63,37 +63,75 @@ http://144.217.75.21:25461/live/roku/roku/1778.ts
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="TNT.us" tvg-name="TNT"  audio-track="nl",TNT
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/129719.png" tvg-id="TNT.us" tvg-name="TNT"  audio-track="nl",TNT
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="USANetwork.us" tvg-name="USA Network"  audio-track="nl",USA Network
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/11388.png" tvg-id="USANetwork.us" tvg-name="USA Network"  audio-track="nl",USA Network
 http://144.217.75.21:25461/live/roku/roku/1761.ts
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name=""  audio-track="nl",Comedy Central
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/3184.png" tvg-id="" tvg-name=""  audio-track="nl",Comedy Central
 http://tv.factoryiptv.com:80/live/Quinteirocoester/Quinteiro/40260.ts
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="FXX.us" tvg-name="FXX"  audio-track="nl",FXX
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/25657.png" tvg-id="FXX.us" tvg-name="FXX"  audio-track="nl",FXX
 http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11107.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network"  audio-track="nl",Cartoon Network 
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/426.png" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network"  audio-track="nl",Cartoon Network 
 http://srv.mtvs.me:8880/live/EduardoTome2/EduardoTome2F/23573.ts
 
-#EXTINF:-1 tvg-logo="" tvg-id="BravoHD.us" tvg-name="Bravo HD"  audio-track="nl",Bravo 
+#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/22005.png" tvg-id="BravoHD.us" tvg-name="Bravo HD"  audio-track="nl",Bravo 
 http://tntcloud.xyz:2052/live/rkmals@yahoo.com/59v83luuUZ/36.ts
 
 
 #EXTINF:-1 tvg-id="A-E.us" tvg-name="A&E" tvg-logo="http://puu.sh/reIHx/6250def099.png" , A&E
 http://procaja.me/live/?z=20&u=981eZH4M6a8J9v&s=98g816ERn8iGK1&id=17&t=live&f=ts
 
-#EXTINF:-1 tvg-id="MTVHD.us" tvg-name="MTV" tvg-logo="", MTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/16521.png", MTV HD
 http://54.36.165.225:8080/Ralston1/voQWZz6cyk/7695
 
+#EXTINF:-1 tvg-id="E.us" tvg-name="E!" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1808.png", E!
+http://iptv-area-51.tv:2095/live/sammymk/k15ytA46Nq/11.ts
 
 
+#EXTINF:-1 tvg-id="TBSHD.us" tvg-name="TBS HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/3222.png", TBS HD
+http://144.217.75.21:25461/live/roku/roku/1767.ts
 
+#EXTINF:-1 tvg-id="VicelandHD.us" tvg-name="Viceland HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/3222.png", Viceland HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7330
+
+#EXTINF:-1 tvg-id="DisneyXDHD.us" tvg-name="Disney XD HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/613.png",Disney XD HD
+http://beeeeeeee.com:25461/live/DK45/MJ8gEPKJFD/162.ts
+
+#EXTINF:-1 tvg-id="BETHD.us" tvg-name="BET HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/6322.png",BET HD
+http://necro.to:80/HJHG/2erzufG8Ui/3879
+
+#EXTINF:-1 tvg-id="DisneyChannelHD.us" tvg-name="Disney Channel HD" tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/05/dc_lgo_e_cyn_cmyk__140522200418.jpg",Disney Channel HD
+http://necro.to:80/HJHG/2erzufG8Ui/7441
+
+#EXTINF:-1 tvg-id="FoodNetworkHD.us" tvg-name="Food Network HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/14916.png",Food Network HD
+http://iptv.wtf:25461/live/hpmcuaah/kZ90Zji1y8/14493.ts
+
+#EXTINF:-1 tvg-id="LifetimeHD.us" tvg-name="Lifetime HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/3778.png",Lifetime HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/939.ts
+
+
+#EXTINF:-1 tvg-id="NickelodeonEastHD.us" tvg-name="Nickelodeon East HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1753.png",Nickelodeon East HD
+http://mag1c-tv.dyndns.tv:9000/svUmQwiu96/ertWbfsLfY/4252
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://crawler.mdcgate.com/iptv/logo/326093.png",MSNBC
+http://144.217.182.174:25461/live/wxarhpon/rnh86C1v6O/11100.ts
+
+
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="http://crawler.mdcgate.com/iptv/logo/19193.png",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+
+///////CINEMA/////
+
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="http://crawler.mdcgate.com/iptv/logo/453.png",HBO Signature
+http://kstv.xyz:8080/live/p0T1bcxPv/0985852308/15915.ts
 
 
