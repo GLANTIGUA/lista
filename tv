@@ -146,17 +146,31 @@ http://beastiptv.tv:8080/B4695/87ghyT/11208
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="HBO Family " tvg-logo="http://crawler.mdcgate.com/iptv/logo/29851.png",HBO Family 
 http://lista.webcs.in:25461/live/ductgo/pwstw0/9733.ts
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/66638.png",FOX Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvg-id="SHOWTIME2.us" tvg-name="SHOWTIME 2 " tvg-logo="http://crawler.mdcgate.com/iptv/logo/3997.png",SHOWTIME 2
+http://144.76.199.197:8080/live/kutlu/kutlu/37964.ts
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/33376.png", Fox Premium Series
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4744.m3u8
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/441.png", Fox Premium 2
-http://niptv.biz:25461/live/igorbretas/t1025335/47.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtremeHD.us" tvg-name="Showtime Extreme HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/37174.png", Showtime Extreme HD
+http://190.2.138.225:8080/live/ehowffok/88Bpw2iS8e/17783.ts
 
-#EXTINF:-1 tvg-logo="http://crawler.mdcgate.com/iptv/logo/441.png", Fox Premium 2
-http://tv.factoryiptv.com:80/live/Quinteirocoester/Quinteiro/38386.ts
+
+#EXTINF:-1 tvg-id="StarzWestHD.us" tvg-name="Starz West HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/105900.png",Starz West HD
+http://io.xtrego.com:8080/pcarden8256/9dd4rbIq1M/1356
+
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="http://crawler.mdcgate.com/iptv/logo/262602.png", Starz Encore Black HD Movies
+http://nitro.ltd:25461/live/Tj8168/3V3qfRARTF/22802.m3u8
+
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="Cinemax" tvg-logo="http://crawler.mdcgate.com/iptv/logo/427.png",  Cinemax
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11347.m3u8
+
+#EXTINF:-1 tvg-id="Cinelatino.us" tvg-name="Cinelatino" tvg-logo="http://crawler.mdcgate.com/iptv/logo/3212.png",  Cinelatino
+http://goldplayer.info:8000/septiembre47/SqvwRTWgKO/31374
+
+#EXTINF:-1 tvg-id="StarzEncoreActionHD.us" tvg-name="Starz Encore Action HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/79992.png",  Starz Encore Action 
+http://io.xtrego.com:8080/pcarden8256/9dd4rbIq1M/1364
+
+
+
 
 /////SPORTS
 
