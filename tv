@@ -1,2 +1,1451 @@
-#EXTINF:-1 group-title="2019" audio-track="nl",HERMANOS 2019
-https://www.dominicancinema.com/wp-content/videos/hermanos/hermanos.mp4
+#EXTINF:-1  tvg-logo="https://i.imgur.com/tNAgcXT.jpg"  audio-track="nl",KQ 94.5 FM ( ALOFOKE RADIO SHOW )
+http://radio.yaservers.com:9990/;
+
+#EXTM3U
+
+
+#EXTINF:-1,USA | A&E
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58408
+
+#EXTINF:-1,USA | ABC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58407
+
+#EXTINF:-1,USA | ABC News
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58406
+
+#EXTINF:-1,USA | AMC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58405
+
+#EXTINF:-1,USA | American Heroes Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58404
+
+#EXTINF:-1,USA | Animal Planet
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58403
+
+#EXTINF:-1,USA | BBC America
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58402
+
+#EXTINF:-1,USA | BEIN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58401
+
+#EXTINF:-1,USA | BET
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58400
+
+#EXTINF:-1,USA | Big Ten Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58398
+
+#EXTINF:-1,USA | Boomerang
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61619
+
+#EXTINF:-1,USA | Bravo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58395
+
+#EXTINF:-1,USA | Cartoon Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58394
+
+#EXTINF:-1,USA | CBS
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58393
+
+#EXTINF:-1,USA | CBSN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58392
+
+#EXTINF:-1,USA | Cinemax
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58391
+
+#EXTINF:-1,USA | Cinemax Moremax
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58390
+
+#EXTINF:-1,USA | Cinemax Thrillermax
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58389
+
+#EXTINF:-1,USA | CMT
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58388
+
+#EXTINF:-1,USA | CNBC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58387
+
+#EXTINF:-1,USA | CNN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58386
+
+#EXTINF:-1,USA | Comedy Central
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58385
+
+#EXTINF:-1,USA | Cooking Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58384
+
+#EXTINF:-1,USA | Cozi TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58383
+
+#EXTINF:-1,USA | Crime and Investigation
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58382
+
+#EXTINF:-1,USA | CW
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58381
+
+#EXTINF:-1,USA | Destination America
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58380
+
+#EXTINF:-1,USA | Discovery Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58379
+
+#EXTINF:-1,USA | Discovery Family
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58378
+
+#EXTINF:-1,USA | Discovery Life
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58377
+
+#EXTINF:-1,USA | Discovery Science
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58376
+
+#EXTINF:-1,USA | Disney Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58375
+
+#EXTINF:-1,USA | Disney Jr
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58374
+
+#EXTINF:-1,USA | Disney XD
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58373
+
+#EXTINF:-1,USA | DIY
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58372
+
+#EXTINF:-1,USA | E!
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58371
+
+#EXTINF:-1,USA | El Rey Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58370
+
+#EXTINF:-1,USA | EPIX
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58368
+
+#EXTINF:-1,USA | ESPN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58367
+
+#EXTINF:-1,USA | ESPN 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58366
+
+#EXTINF:-1,USA | ESPN NEWS
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58364
+
+#EXTINF:-1,USA | ESPN U
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58365
+
+#EXTINF:-1,USA | Fight Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58363
+
+#EXTINF:-1,USA | Food Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58362
+
+#EXTINF:-1,USA | Fox
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58361
+
+#EXTINF:-1,USA | Fox Business Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58360
+
+#EXTINF:-1,USA | Fox Deportes
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58359
+
+#EXTINF:-1,USA | Fox News
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58358
+
+#EXTINF:-1,USA | Fox Soccer Plus
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58357
+
+#EXTINF:-1,USA | Fox Sports 1
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58356
+
+#EXTINF:-1,USA | Fox Sports 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58355
+
+#EXTINF:-1,USA | FreeForm
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58354
+
+#EXTINF:-1,USA | Fuse
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58353
+
+#EXTINF:-1,USA | Fusion
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58352
+
+#EXTINF:-1,USA | FX
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58351
+
+#EXTINF:-1,USA | FX +
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61620
+
+#EXTINF:-1,USA | FXM
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58350
+
+#EXTINF:-1,USA | FXX
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58349
+
+#EXTINF:-1,USA | FYI
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58348
+
+#EXTINF:-1,USA | Golf Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61651
+
+#EXTINF:-1,USA | Grit
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58347
+
+#EXTINF:-1,USA | GSN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58346
+
+#EXTINF:-1,USA | GYNX eSports TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61652
+
+#EXTINF:-1,USA | Hallmark
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58345
+
+#EXTINF:-1,USA | Hallmark Movies & Mysteries
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58344
+
+#EXTINF:-1,USA | HBO
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58343
+
+#EXTINF:-1,USA | HBO 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58342
+
+#EXTINF:-1,USA | HBO Comedy
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58341
+
+#EXTINF:-1,USA | HBO Signature
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58340
+
+#EXTINF:-1,USA | HBO Zone
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58339
+
+#EXTINF:-1,USA | HGTV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58338
+
+#EXTINF:-1,USA | History Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58337
+
+#EXTINF:-1,USA | HLN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58336
+
+#EXTINF:-1,USA | IFC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58335
+
+#EXTINF:-1,USA | Investigation Discovery
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58334
+
+#EXTINF:-1,USA | ION
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58333
+
+#EXTINF:-1,USA | Lifetime
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58332
+
+#EXTINF:-1,USA | LMN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58331
+
+#EXTINF:-1,USA | LongHorn Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58330
+
+#EXTINF:-1,USA | MSG
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58327
+
+#EXTINF:-1,USA | MSNBC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58326
+
+#EXTINF:-1,USA | MTV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58325
+
+#EXTINF:-1,USA | Nat Geo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58324
+
+#EXTINF:-1,USA | Nat Geo Wild
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58323
+
+#EXTINF:-1,USA | NBA TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58322
+
+#EXTINF:-1,USA | NBC Golf
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58320
+
+#EXTINF:-1,USA | NBC Universo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58319
+
+#EXTINF:-1,USA | NBCSN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58318
+
+#EXTINF:-1,USA | NFL Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58317
+
+#EXTINF:-1,USA | NHL Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58315
+
+#EXTINF:-1,USA | Nick
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58314
+
+#EXTINF:-1,USA | Nicktoons
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58312
+
+#EXTINF:-1,USA | Outdoor Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58311
+
+#EXTINF:-1,USA | OWN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58310
+
+#EXTINF:-1,USA | Oxygen
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58309
+
+#EXTINF:-1,USA | Paramount Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58297
+
+#EXTINF:-1,USA | Pop
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58304
+
+#EXTINF:-1,USA | Reelz
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59923
+
+#EXTINF:-1,USA | Revolt
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58302
+
+#EXTINF:-1,USA | Sec Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58301
+
+#EXTINF:-1,USA | Showtime
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58300
+
+#EXTINF:-1,USA | Showtime 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58299
+
+#EXTINF:-1,USA | Showtime Beyond
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61443
+
+#EXTINF:-1,USA | Showtime Extreme
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61442
+
+#EXTINF:-1,USA | Showtime Family Zone
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61441
+
+#EXTINF:-1,USA | Showtime Showcase
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58298
+
+#EXTINF:-1,USA | Start TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61660
+
+#EXTINF:-1,USA  | Starz Black
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58294
+
+#EXTINF:-1,USA | Starz Cinema
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58296
+
+#EXTINF:-1,USA | Starz East
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58295
+
+#EXTINF:-1,USA | Starz Encore Western
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58293
+
+#EXTINF:-1,USA | Starz Kids & Family
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58292
+
+#EXTINF:-1,USA | Sundance
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58291
+
+#EXTINF:-1,USA | SyFy
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58290
+
+#EXTINF:-1,USA | TBS
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58289
+
+#EXTINF:-1,USA | TCM
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61683
+
+#EXTINF:-1,USA | Telemundo Chicago
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61655
+
+#EXTINF:-1,USA | Telemundo LA
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58880
+
+#EXTINF:-1,USA | Telemundo Las Vegas
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58879
+
+#EXTINF:-1,USA | Telemundo Miami
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58288
+
+#EXTINF:-1,USA | Telemundo NY
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61550
+
+#EXTINF:-1,USA | Telemundo Philly
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61656
+
+#EXTINF:-1,USA | Telemundo Phoenix
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58877
+
+#EXTINF:-1,USA | Telemundo Sacramento
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61657
+
+#EXTINF:-1,USA | Telemundo San Diego
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61653
+
+#EXTINF:-1,USA | Telemundo Texas
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58875
+
+#EXTINF:-1,USA | Tennis Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58287
+
+#EXTINF:-1,USA | The Blaze
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58286
+
+#EXTINF:-1,USA | The Weather Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58285
+
+#EXTINF:-1,USA | TLC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58284
+
+#EXTINF:-1,USA | TNT
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61510
+
+#EXTINF:-1,USA | Travel Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58282
+
+#EXTINF:-1,USA | TruTV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58281
+
+#EXTINF:-1,USA | TV Land
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58280
+
+#EXTINF:-1,USA | TV One
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58279
+
+#EXTINF:-1,USA | UFC Fight Pass
+http://netseronline.com:25461/willl6/DAIr4JmOCB/60501
+
+#EXTINF:-1,USA | UNIMAS
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58278
+
+#EXTINF:-1,USA | Universal Kids
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58277
+
+#EXTINF:-1,USA | USA Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58276
+
+#EXTINF:-1,USA | Velocity
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58275
+
+#EXTINF:-1,USA | VH1
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58274
+
+#EXTINF:-1,USA | Viceland
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58273
+
+#EXTINF:-1,USA | WE TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58272
+
+#EXTINF:-1,USA | World Fishing Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58271
+
+#EXTINF:-1,USA | WWE
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58270
+
+#EXTINF:-1,USA | Yes Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61039
+
+#EXTINF:-1,FOX College Atlantic
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61682
+
+#EXTINF:-1,FOX College Central
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61681
+
+#EXTINF:-1,FOX College Pacific
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61680
+
+#EXTINF:-1,FOX Sports Arizona
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61679
+
+#EXTINF:-1,FOX Sports Carolinas
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61678
+
+#EXTINF:-1,FOX Sports Detroit
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61677
+
+#EXTINF:-1,FOX Sports Florida
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61676
+
+#EXTINF:-1,FOX Sports Indiana
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61675
+
+#EXTINF:-1,FOX Sports Midwest
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61674
+
+#EXTINF:-1,FOX Sports New Orleans
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61673
+
+#EXTINF:-1,FOX Sports North
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61672
+
+#EXTINF:-1,FOX Sports Prime Ticket
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61670
+
+#EXTINF:-1,FOX Sports San Diego
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61669
+
+#EXTINF:-1,FOX Sports South
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61667
+
+#EXTINF:-1,FOX Sports Southwest
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61664
+
+#EXTINF:-1,FOX Sports Sun
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61665
+
+#EXTINF:-1,FOX Sports West
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61663
+
+#EXTINF:-1,FOX Sports Wisconsin
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61662
+
+#EXTINF:-1,Latino | A&E
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58990
+
+#EXTINF:-1,Latino | A3Series
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58989
+
+#EXTINF:-1,Latino | ADN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61508
+
+#EXTINF:-1,Latino | Afizzionados
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58987
+
+#EXTINF:-1,Latino | AMC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58986
+
+#EXTINF:-1,Latino | Animal Planet
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58985
+
+#EXTINF:-1,Latino | Antena 3
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58984
+
+#EXTINF:-1,Latino | AXN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58983
+
+#EXTINF:-1,Latino | AZ Cinema
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58982
+
+#EXTINF:-1,Latino | Az Click
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58981
+
+#EXTINF:-1,Latino | AZ Corazon
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58980
+
+#EXTINF:-1,Latino | Az Mundo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58979
+
+#EXTINF:-1,Latino | Azteca 1
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58978
+
+#EXTINF:-1,Latino | Azteca 7
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58977
+
+#EXTINF:-1,Latino | Bandamax
+http://netseronline.com:25461/willl6/DAIr4JmOCB/60985
+
+#EXTINF:-1,Latino | Bein La Liga
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58975
+
+#EXTINF:-1,Latino | Canal 5
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58973
+
+#EXTINF:-1,Latino | Canal De Las Estrellas
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58972
+
+#EXTINF:-1,Latino | Caracol
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58971
+
+#EXTINF:-1,Latino | Carton Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58970
+
+#EXTINF:-1,Latino | Cinecanal
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58969
+
+#EXTINF:-1,Latino | Cinemax
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58968
+
+#EXTINF:-1,Latino | City TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58967
+
+#EXTINF:-1,Latino | CNN en Español
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58964
+
+#EXTINF:-1,Latino | Comedy Central
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58966
+
+#EXTINF:-1,Latino | Concert Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58965
+
+#EXTINF:-1,Latino | De Pelicula
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58963
+
+#EXTINF:-1,Latino | Discovery Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58961
+
+#EXTINF:-1,Latino | Discovery Civilization
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58959
+
+#EXTINF:-1,Latino | Discovery Familia
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61464
+
+#EXTINF:-1,Latino | Discovery H&H
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58958
+
+#EXTINF:-1,Latino | Discovery H&H LowBR
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58957
+
+#EXTINF:-1,Latino | Discovery ID
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58956
+
+#EXTINF:-1,Latino | Discovery ID LowBR
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58955
+
+#EXTINF:-1,Latino | Discovery Kids
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58954
+
+#EXTINF:-1,Latino | Discovery Kids LowBR
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58953
+
+#EXTINF:-1,Latino | Discovery Science
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58952
+
+#EXTINF:-1,Latino | Discovery Theater
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58951
+
+#EXTINF:-1,Latino | Discovery TLC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58950
+
+#EXTINF:-1,Latino | Discovery Turbo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58949
+
+#EXTINF:-1,Latino | Discovery World
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58948
+
+#EXTINF:-1,Latino | Disney Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58947
+
+#EXTINF:-1,Latino | DISNEY JR
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58946
+
+#EXTINF:-1,Latino | Distrito Comedia
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58945
+
+#EXTINF:-1,Latino | E!
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58944
+
+#EXTINF:-1,Latino | El Gourmet
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58943
+
+#EXTINF:-1,Latino | ESPN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58942
+
+#EXTINF:-1,Latino | ESPN 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58941
+
+#EXTINF:-1,Latino | ESPN 3
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58940
+
+#EXTINF:-1,Latino | ESPN Deportes
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58939
+
+#EXTINF:-1,Latino | ESPN Plus
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58938
+
+#EXTINF:-1,Latino | EstrellaTV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58937
+
+#EXTINF:-1,Latino | Foro TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58936
+
+#EXTINF:-1,Latino | Fox
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58935
+
+#EXTINF:-1,Latino | Fox Action
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58934
+
+#EXTINF:-1,Latino | Fox Cinema
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58933
+
+#EXTINF:-1,Latino | Fox Classic
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58932
+
+#EXTINF:-1,Latino | Fox Comedy
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58931
+
+#EXTINF:-1,Latino | Fox Family
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58930
+
+#EXTINF:-1,Latino | Fox Movies
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58928
+
+#EXTINF:-1,Latino | Fox Series
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58927
+
+#EXTINF:-1,Latino | Fox Sports 1
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58926
+
+#EXTINF:-1,Latino | Fox Sports 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58925
+
+#EXTINF:-1,Latino | Fox Sports 3
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58924
+
+#EXTINF:-1,Latino | FX
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58923
+
+#EXTINF:-1,Latino | FXM
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58922
+
+#EXTINF:-1,Latino | Gala TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58921
+
+#EXTINF:-1,Latino | Galavision
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59763
+
+#EXTINF:-1,Latino | Glitz
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58920
+
+#EXTINF:-1,Latino | Gol Tv Latino
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58919
+
+#EXTINF:-1,Latino | Golden
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58918
+
+#EXTINF:-1,Latino | Golf Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58917
+
+#EXTINF:-1,Latino | H2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58916
+
+#EXTINF:-1,Latino | HBO
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58915
+
+#EXTINF:-1,Latino | HBO 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58914
+
+#EXTINF:-1,Latino | HBO Family
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58913
+
+#EXTINF:-1,Latino | HBO Plus
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58912
+
+#EXTINF:-1,Latino | HBO Signature
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58911
+
+#EXTINF:-1,Latino | History Channel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58910
+
+#EXTINF:-1,Latino | Hola TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59770
+
+#EXTINF:-1,Latino | Imagen Television
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58909
+
+#EXTINF:-1,Latino | Lifetime
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58908
+
+#EXTINF:-1,Latino | Mas Chic
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58907
+
+#EXTINF:-1,Latino | MAX
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58906
+
+#EXTINF:-1,Latino | MAX Prime
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58905
+
+#EXTINF:-1,Latino | Max UP
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58904
+
+#EXTINF:-1,Latino | MTV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58903
+
+#EXTINF:-1,Latino | Multimedios Monterrey
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58901
+
+#EXTINF:-1,Latino | Nat Geo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58900
+
+#EXTINF:-1,Latino | Nat Geo Wild
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58898
+
+#EXTINF:-1,Latino | Nat Geo Mundo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61684
+
+#EXTINF:-1,Latino | Nat Geo Kids
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58899
+
+#EXTINF:-1,Latino | Nick
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58897
+
+#EXTINF:-1,Latino | Nick 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58896
+
+#EXTINF:-1,Latino | Nick Jr
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58895
+
+#EXTINF:-1,Latino | Nicktoons
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58894
+
+#EXTINF:-1,Latino | NTN24
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61436
+
+#EXTINF:-1,Latino | Paramount
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58893
+
+#EXTINF:-1,Latino | Pasiones
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58892
+
+#EXTINF:-1,Latino | RCN HD
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58891
+
+#EXTINF:-1,Latino | RCN Novelas
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58890
+
+#EXTINF:-1,Latino | Ritmonson
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58889
+
+#EXTINF:-1,Latino | SONY
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58888
+
+#EXTINF:-1,Latino | Space
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58887
+
+#EXTINF:-1,Latino | Starz Black Test
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61628
+
+#EXTINF:-1,Latino | Starz Cinema Test
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61627
+
+#EXTINF:-1,Latino | Starz East Test
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61629
+
+#EXTINF:-1,Latino | SYFY
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58884
+
+#EXTINF:-1,Latino | TBS
+http://netseronline.com:25461/willl6/DAIr4JmOCB/60986
+
+#EXTINF:-1,Latino | TCM
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58883
+
+#EXTINF:-1,Latino | TDN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58882
+
+#EXTINF:-1,Latino | Telehit
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58881
+
+#EXTINF:-1,Latino | Telemundo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/60581
+
+#EXTINF:-1,Latino | TIIN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58873
+
+#EXTINF:-1,Latino | TLnovelas
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58872
+
+#EXTINF:-1,Latino | TNT
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58871
+
+#EXTINF:-1,Latino | TNT Series
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58870
+
+#EXTINF:-1,Latino | TOONCAST
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58869
+
+#EXTINF:-1,Latino | Tru TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58868
+
+#EXTINF:-1,Latino | TVC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58867
+
+#EXTINF:-1,Latino | TVC Deportes
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58866
+
+#EXTINF:-1,Latino | TYC Sports HD
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58865
+
+#EXTINF:-1,Latino | UFC
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58864
+
+#EXTINF:-1,Latino | Unicable
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58863
+
+#EXTINF:-1,Latino | Universal
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58862
+
+#EXTINF:-1,Latino | Univision Network
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58861
+
+#EXTINF:-1,Latino | Univision Los Angeles
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61434
+
+#EXTINF:-1,Latino | Univision TDN
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58860
+
+#EXTINF:-1,Latino | VH1
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58859
+
+#EXTINF:-1,Latino | VH1 Classic
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58858
+
+#EXTINF:-1,Latino | Warner
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58857
+
+#EXTINF:-1,Latino | Win Sports
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58856
+
+#EXTINF:-1,PR | Telemundo
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58991
+
+#EXTINF:-1,PR | Punto 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58992
+
+#EXTINF:-1,PR | NBC PR
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58993
+
+#EXTINF:-1,PR | WAPA
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58994
+
+#EXTINF:-1,PR | WAPA 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58995
+
+#EXTINF:-1,PR | WIPR
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58996
+
+#EXTINF:-1,PR | TiVA TV PR
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58997
+
+#EXTINF:-1,PR | Univision
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58998
+
+#EXTINF:-1,PR | Mega TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/58999
+
+#EXTINF:-1,PR | La X 100.7 FM
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59000
+
+#EXTINF:-1,Canada | Sportsnet 360
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59188
+
+#EXTINF:-1,Canada | Sportsnet East
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59185
+
+#EXTINF:-1,Canada | Sportsnet One
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59187
+
+#EXTINF:-1,Canada | Sportsnet Ontario
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59186
+
+#EXTINF:-1,Canada | Sportsnet Pacific
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59184
+
+#EXTINF:-1,Canada | Sportsnet World
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59183
+
+#EXTINF:-1,Canada | TSN 1
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59182
+
+#EXTINF:-1,Canada | TSN 2
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59181
+
+#EXTINF:-1,Canada | TSN 3
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59180
+
+#EXTINF:-1,Canada | TSN 4
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59179
+
+#EXTINF:-1,Canada | TSN 5
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59178
+
+#EXTINF:-1,24/7 | American Dad
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59759
+
+#EXTINF:-1,24/7 | American Horror Story
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59754
+
+#EXTINF:-1,24/7 | Batman
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59756
+
+#EXTINF:-1,24/7 | Criminal Minds
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59746
+
+#EXTINF:-1,24/7 | CSI
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59745
+
+#EXTINF:-1,24/7 | CSI Miami
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59744
+
+#EXTINF:-1,24/7 | Greys Anatomy
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59735
+
+#EXTINF:-1,24/7 | Orange is the New Black
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59734
+
+#EXTINF:-1,24/7 | Paw Patrol
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59733
+
+#EXTINF:-1,24/7 | Paw Patrol II
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59732
+
+#EXTINF:-1,24/7 | Peppa Pig
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59731
+
+#EXTINF:-1,24/7 | The Big Bang Theory
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59717
+
+#EXTINF:-1,24/7 | The Bourne
+http://netseronline.com:25461/willl6/DAIr4JmOCB/59716
+
+#EXTINF:-1,Adult | Brazzers
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61513
+
+#EXTINF:-1,Adult | Hustler TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61514
+
+#EXTINF:-1,Adult | Playboy TV
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61551
+
+#EXTINF:-1,Adult | Playboy Europe
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61552
+
+#EXTINF:-1,Adult | Reality Kings
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61515
+
+#EXTINF:-1,Adult | Dorcel
+http://netseronline.com:25461/willl6/DAIr4JmOCB/61553
+
+#EXTINF:-1,12 Strong
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58095.mp4
+
+#EXTINF:-1,300
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61449.mp4
+
+#EXTINF:-1,300: Rise of an Empire
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58096.mp4
+
+#EXTINF:-1,A Star Is Born
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61287.mp4
+
+#EXTINF:-1,Alien: Covenant
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58097.mp4
+
+#EXTINF:-1,Andre the Giant
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61288.mp4
+
+#EXTINF:-1,Annihilation
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/60354.mp4
+
+#EXTINF:-1,Ant-Man
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58131.mp4
+
+#EXTINF:-1,Ant-Man and the Wasp
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57863.mp4
+
+#EXTINF:-1,Aquaman
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61040.mp4
+
+#EXTINF:-1,The Avengers
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57871.mp4
+
+#EXTINF:-1,Avengers: Age of Ultron
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58098.mp4
+
+#EXTINF:-1,Avengers: Infinity War
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58100.mp4
+
+#EXTINF:-1,Baby Driver
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55416.mp4
+
+#EXTINF:-1,Back to the Future
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58101.mp4
+
+#EXTINF:-1,Back to the Future Part II
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58102.mp4
+
+#EXTINF:-1,Back to the Future Part III
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58103.mp4
+
+#EXTINF:-1,Baywatch
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61520.mp4
+
+#EXTINF:-1,Beauty and the Beast
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58143.mp4
+
+#EXTINF:-1,Black Panther
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58099.mp4
+
+#EXTINF:-1,Blade Runner: 2049
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55514.mp4
+
+#EXTINF:-1,Blockers
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58104.mp4
+
+#EXTINF:-1,Book Club
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57865.mp4
+
+#EXTINF:-1,Bumblebee
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61447.mp4
+
+#EXTINF:-1,Captain America: The First Avenger
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58128.mp4
+
+#EXTINF:-1,Captain America: The Winter Soldier
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58129.mp4
+
+#EXTINF:-1,Captain America: Civil War
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58130.mp4
+
+#EXTINF:-1,Christopher Robin
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58138.mp4
+
+#EXTINF:-1,Coco
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58169.mp4
+
+#EXTINF:-1,Creed II
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61293.mp4
+
+#EXTINF:-1,Dawn of the Planet of the Apes
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55448.mp4
+
+#EXTINF:-1,Deadpool 2
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58107.mp4
+
+#EXTINF:-1,Doctor Strange
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58136.mp4
+
+#EXTINF:-1,Dragon Ball Super: Broly
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61116.mp4
+
+#EXTINF:-1,Dunkirk
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55735.mp4
+
+#EXTINF:-1,Escape Plan
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55423.mp4
+
+#EXTINF:-1,Escape Plan 2: Hades
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/60353.mp4
+
+#EXTINF:-1,Fantastic Beasts and Where to Find Them
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58158.mp4
+
+#EXTINF:-1,Fantastic Beasts: The Crimes of Grindelwald
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61289.mp4
+
+#EXTINF:-1,The Fast and the Furious
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61426.mp4
+
+#EXTINF:-1,2 Fast 2 Furious
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61427.mp4
+
+#EXTINF:-1,The Fast and the Furious: Tokyo Drift
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61428.mp4
+
+#EXTINF:-1,Fast & Furious
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61429.mp4
+
+#EXTINF:-1,Fast Five
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61430.mp4
+
+#EXTINF:-1,Fast & Furious 6
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61431.mp4
+
+#EXTINF:-1,Furious 7
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61432.mp4
+
+#EXTINF:-1,The Fate of the Furious
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61433.mp4
+
+#EXTINF:-1,Fighting with My Family
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61521.mp4
+
+#EXTINF:-1,Geostorm
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55722.mp4
+
+#EXTINF:-1,Glass
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61446.mp4
+
+#EXTINF:-1,Gone Girl
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55721.mp4
+
+#EXTINF:-1,Guardians of the Galaxy
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55723.mp4
+
+#EXTINF:-1,Guardians of the Galaxy Vol. 2
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55724.mp4
+
+#EXTINF:-1,Hacksaw Ridge
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61217.mp4
+
+#EXTINF:-1,Halloween
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61292.mp4
+
+#EXTINF:-1,Happy Death Day
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55725.mp4
+
+#EXTINF:-1,Harry Potter and the Philosopher's Stone
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55726.mp4
+
+#EXTINF:-1,Harry Potter and the Chamber of Secrets
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55728.mp4
+
+#EXTINF:-1,Harry Potter and the Prisoner of Azkaban
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55731.mp4
+
+#EXTINF:-1,Harry Potter and the Goblet of Fire
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55729.mp4
+
+#EXTINF:-1,Harry Potter and the Order of the Phoenix
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55730.mp4
+
+#EXTINF:-1,Harry Potter and the Half-Blood Prince
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55727.mp4
+
+#EXTINF:-1,Harry Potter and the Deathly Hallows: Part 1
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55733.mp4
+
+#EXTINF:-1,Harry Potter and the Deathly Hallows: Part 2
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55732.mp4
+
+#EXTINF:-1,Hotel Transylvania 3: Summer Vacation
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57866.mp4
+
+#EXTINF:-1,How to Train Your Dragon: The Hidden World
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61457.mp4
+
+#EXTINF:-1,I Am Legend- Alternate Ending
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55458.mp4
+
+#EXTINF:-1,I Kill Giants
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55502.mp4
+
+#EXTINF:-1,Incredibles 2
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58106.mp4
+
+#EXTINF:-1,Interstellar
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58132.mp4
+
+#EXTINF:-1,Iron Man
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55459.mp4
+
+#EXTINF:-1,Iron Man 2
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55460.mp4
+
+#EXTINF:-1,Iron Man 3
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55461.mp4
+
+#EXTINF:-1,Jigsaw
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55506.mp4
+
+#EXTINF:-1,John Wick
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55467.mp4
+
+#EXTINF:-1,John Wick: Chapter 2
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55468.mp4
+
+#EXTINF:-1,Johnny English Strikes Again
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/60352.mp4
+
+#EXTINF:-1,Jumanji: Welcome to the Jungle
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55503.mp4
+
+#EXTINF:-1,Jurassic World: Fallen Kingdom
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57867.mp4
+
+#EXTINF:-1,Justice League
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55504.mp4
+
+#EXTINF:-1,Mary Poppins Returns
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61124.mp4
+
+#EXTINF:-1,Maze Runner: The Death Cure
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58170.mp4
+
+#EXTINF:-1,Mile 22
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58234.mp4
+
+#EXTINF:-1,Mission: Impossible - Fallout
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58245.mp4
+
+#EXTINF:-1,Moana
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58137.mp4
+
+#EXTINF:-1,Mowgli: Legend of the Jungle
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/59924.mp4
+
+#EXTINF:-1,My Pet Dinosaur
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55509.mp4
+
+#EXTINF:-1,Perfume: The Story of a Murderer
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61450.mp4
+
+#EXTINF:-1,Pirates of the Caribbean: The Curse of the Black Pearl
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61452.mp4
+
+#EXTINF:-1,Pirates of the Caribbean: Dead Man's Chest
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61453.mp4
+
+#EXTINF:-1,Pirates of the Caribbean: At World's End
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61454.mp4
+
+#EXTINF:-1,Pirates of the Caribbean: On Stranger Tides
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61455.mp4
+
+#EXTINF:-1,Pirates of the Caribbean: Dead Men Tell No Tales
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61456.mp4
+
+#EXTINF:-1,Prometheus
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55422.mp4
+
+#EXTINF:-1,Ralph Breaks the Internet
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61290.mp4
+
+#EXTINF:-1,Rampage
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55421.mp4
+
+#EXTINF:-1,Ready Player One
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55420.mp4
+
+#EXTINF:-1,Red Sparrow
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58134.mp4
+
+#EXTINF:-1,Rise of the Planet of the Apes
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55446.mp4
+
+#EXTINF:-1,Rogue One: A Star Wars Story
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55512.mp4
+
+#EXTINF:-1,Searching
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61291.mp4
+
+#EXTINF:-1,Skyscraper
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57868.mp4
+
+#EXTINF:-1,Spider-Man: Homecoming
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55508.mp4
+
+#EXTINF:-1,Spider-Man: Into the Spider-Verse
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61123.mp4
+
+#EXTINF:-1,Split
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61504.mp4
+
+#EXTINF:-1,Solo: A Star Wars Story
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57869.mp4
+
+#EXTINF:-1,Star Wars: Episode I - The Phantom Menace
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58161.mp4
+
+#EXTINF:-1,Star Wars: Episode II - Attack of the Clones
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58162.mp4
+
+#EXTINF:-1,Star Wars: Episode III - Revenge of the Sith
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58163.mp4
+
+#EXTINF:-1,Star Wars: Episode IV- A New Hope
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58164.mp4
+
+#EXTINF:-1,Star Wars: Episode V- The Empire Strikes Back
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58165.mp4
+
+#EXTINF:-1,Star Wars: Episode VI- Return of the Jedi
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58166.mp4
+
+#EXTINF:-1,Star Wars: Episode VII- The Force Awakens
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58167.mp4
+
+#EXTINF:-1,Star Wars: The Last Jedi
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58159.mp4
+
+#EXTINF:-1,Tag
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58135.mp4
+
+#EXTINF:-1,Teen Titans Go! To the Movies
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57870.mp4
+
+#EXTINF:-1,The Dark Tower
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58133.mp4
+
+#EXTINF:-1,The Equalizer 2
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58168.mp4
+
+#EXTINF:-1,The Greatest Showman
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58140.mp4
+
+#EXTINF:-1,The Grinch
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61286.mp4
+
+#EXTINF:-1,The Hobbit: An Unexpected Journey
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58155.mp4
+
+#EXTINF:-1,The Hobbit: The Desolation of Smaug
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58156.mp4
+
+#EXTINF:-1,The Hobbit: The Battle of the Five Armies
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58157.mp4
+
+#EXTINF:-1,The Incredible Hulk
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58141.mp4
+
+#EXTINF:-1,The Lego Movie 2: The Second Part
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61451.mp4
+
+#EXTINF:-1,The Lion King
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58142.mp4
+
+#EXTINF:-1,The Lion King 2: Simba's Pride
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/60983.mp4
+
+#EXTINF:-1,The Lord of the Rings: The Fellowship of the Ring
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58152.mp4
+
+#EXTINF:-1,The Lord of the Rings: The Two Towers
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58153.mp4
+
+#EXTINF:-1,The Lord of the Rings: The Return of the King (Extended)
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58154.mp4
+
+#EXTINF:-1,The Meg
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58160.mp4
+
+#EXTINF:-1,The Mummy
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55736.mp4
+
+#EXTINF:-1,The Nun
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/59071.mp4
+
+#EXTINF:-1,The Predator
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/59073.mp4
+
+#EXTINF:-1,The Spy Who Dumped Me
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58139.mp4
+
+#EXTINF:-1,Thor
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61216.mp4
+
+#EXTINF:-1,Thor: The Dark World
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57862.mp4
+
+#EXTINF:-1,Thor: Ragnarok
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/57872.mp4
+
+#EXTINF:-1,Tomb Raider
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55449.mp4
+
+#EXTINF:-1,Turbo
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55463.mp4
+
+#EXTINF:-1,Unbreakable
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/61505.mp4
+
+#EXTINF:-1,Venom
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/59072.mp4
+
+#EXTINF:-1,War for the Planet of the Apes
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55447.mp4
+
+#EXTINF:-1,Wonder Woman
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55413.mp4
+
+#EXTINF:-1,Wonderstruck
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/55513.mp4
+
+#EXTINF:-1,Zootopia
+http://netseronline.com:25461/movie/willl6/DAIr4JmOCB/58144.mp4
